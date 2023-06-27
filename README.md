@@ -13,7 +13,8 @@ The SDK provides these functionalities:
 
 This is the general workflow for using tamara on your application:
 
-![Checkout flow](https://github.com/tamara-solution/ios-sdk/blob/master/docs/images/checkout-flow.jpeg "Checkout flow")
+![image](https://github.com/ngochaitamara/ios-sdk/assets/121469787/54860bd8-a679-4b2d-9d4a-51ad718c43dc)
+
 
 So, assuming you already called our checkout API, and got `checkout_url`, let's do some quick coding to get it done.
 
